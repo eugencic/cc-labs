@@ -1,1 +1,1 @@
-# cc-labs
+# Calculability and Complexity Labs
